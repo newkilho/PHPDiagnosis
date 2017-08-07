@@ -43,10 +43,6 @@ object FrmMain: TFrmMain
     object TabSheet2: TTabSheet
       Caption = 'Result'
       ImageIndex = 1
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object Memo2: TMemo
         Left = 0
         Top = 0
