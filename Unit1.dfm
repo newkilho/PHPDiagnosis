@@ -90,14 +90,16 @@ object FrmMain: TFrmMain
     Align = alBottom
     BevelOuter = bvNone
     TabOrder = 2
+    ExplicitLeft = 8
+    ExplicitTop = 329
     object Label1: TLabel
-      Left = 337
+      Left = 366
       Top = 12
-      Width = 82
+      Width = 53
       Height = 13
       Cursor = crHandPoint
       Alignment = taRightJustify
-      Caption = #47564#46304#51060' : '#50724#44600#54840
+      Caption = 'by Kilhonet'
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBlue
       Font.Height = -11
